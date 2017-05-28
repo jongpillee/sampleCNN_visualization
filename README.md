@@ -8,4 +8,4 @@ The code was developed based on this blog post [How convolutional neural network
 
 * theano 0.8.2
 * keras 1.1.0
-
+* librosa 0.5.0
